@@ -126,9 +126,32 @@ h2 {
 	width: 645px;
 }
 
+.hide {
+	display: none;
+}
+
+.newcontent1{
+	margin: auto;
+	width: 900px;
+	text-align: center;
+}
+
+.newcontent2{
+	margin: auto;
+	width: 900px;
+	text-align: center;
+}
+
+.newcontent3{
+	margin: auto;
+	width: 900px;
+	text-align: center;
+}
+
 .product {
-	font-size: 2.2em;
-	margin-bottom: 5px;
+	font-size: 2.7em;
+	margin-bottom: 6.5px;
+	line-height: 1.18;
 }
 
 .productlink {
